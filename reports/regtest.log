@@ -1,0 +1,212 @@
+01/06/21 03:47:31 PM Tuesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+01/06/21 03:47:31 PM Tuesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+01/06/21 03:47:31 PM Tuesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+01/06/21 03:47:32 PM Tuesday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+01/06/21 03:47:32 PM Tuesday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+01/06/21 03:47:32 PM Tuesday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+01/06/21 03:47:32 PM Tuesday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+01/06/21 03:47:55 PM Tuesday - BasePage - INFO : Element with locatortype: class and with the locatorvalue :Forgot password? is not displayed
+01/06/21 03:48:19 PM Tuesday - BasePage - INFO : Element with locatortype: class and with the locatorvalue :Not registered yet? is not displayed
+01/06/21 03:48:19 PM Tuesday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+01/06/21 03:48:20 PM Tuesday - BasePage - INFO : Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+01/06/21 03:48:20 PM Tuesday - BasePage - INFO : Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+01/06/21 03:48:21 PM Tuesday - BasePage - INFO : clicked on element with locatortype: class and with the locatorvalue :android.widget.Button
+01/06/21 04:31:22 PM Tuesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+01/06/21 04:31:22 PM Tuesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+01/06/21 04:31:22 PM Tuesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+01/06/21 04:31:23 PM Tuesday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+01/06/21 04:31:23 PM Tuesday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+01/06/21 04:31:23 PM Tuesday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+01/06/21 04:31:23 PM Tuesday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+01/06/21 04:31:47 PM Tuesday - BasePage - INFO : Element with locatortype: class and with the locatorvalue :Forgot password? is not displayed
+01/06/21 04:32:10 PM Tuesday - BasePage - INFO : Element with locatortype: class and with the locatorvalue :Not registered yet? is not displayed
+01/06/21 04:32:10 PM Tuesday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+01/06/21 04:32:10 PM Tuesday - BasePage - INFO : Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+01/06/21 04:32:11 PM Tuesday - BasePage - INFO : Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+01/06/21 04:32:12 PM Tuesday - BasePage - INFO : clicked on element with locatortype: class and with the locatorvalue :android.widget.Button
+01/06/21 04:45:26 PM Tuesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+01/06/21 04:45:26 PM Tuesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+01/06/21 04:45:26 PM Tuesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+01/06/21 04:45:27 PM Tuesday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+01/06/21 04:45:27 PM Tuesday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+01/06/21 04:45:28 PM Tuesday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+01/06/21 04:45:28 PM Tuesday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+01/06/21 04:45:51 PM Tuesday - BasePage - INFO : Element with locatortype: class and with the locatorvalue :Forgot password? is not displayed
+01/06/21 04:46:15 PM Tuesday - BasePage - INFO : Element with locatortype: class and with the locatorvalue :Not registered yet? is not displayed
+01/06/21 04:46:16 PM Tuesday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+02/06/21 12:30:45 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+02/06/21 12:30:45 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+02/06/21 12:30:45 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+02/06/21 12:30:46 PM Wednesday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+02/06/21 12:30:46 PM Wednesday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+02/06/21 12:30:46 PM Wednesday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+02/06/21 12:30:46 PM Wednesday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+02/06/21 12:31:10 PM Wednesday - BasePage - INFO : Element with locatortype: class and with the locatorvalue :Forgot password? is not displayed
+02/06/21 12:31:34 PM Wednesday - BasePage - INFO : Element with locatortype: class and with the locatorvalue :Not registered yet? is not displayed
+02/06/21 12:31:34 PM Wednesday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+02/06/21 12:33:38 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+02/06/21 12:33:38 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+02/06/21 12:33:38 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+02/06/21 12:33:39 PM Wednesday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+02/06/21 12:33:39 PM Wednesday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+02/06/21 12:33:39 PM Wednesday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+02/06/21 12:33:39 PM Wednesday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+02/06/21 12:34:03 PM Wednesday - BasePage - INFO : Element with locatortype: class and with the locatorvalue :Forgot password? is not displayed
+02/06/21 12:34:27 PM Wednesday - BasePage - INFO : Element with locatortype: class and with the locatorvalue :Not registered yet? is not displayed
+02/06/21 12:34:27 PM Wednesday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+02/06/21 12:34:55 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+02/06/21 12:34:55 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+02/06/21 12:34:56 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+02/06/21 12:34:57 PM Wednesday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+02/06/21 12:34:57 PM Wednesday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+02/06/21 12:34:57 PM Wednesday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+02/06/21 12:34:57 PM Wednesday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+02/06/21 12:34:57 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Forgot password? is displayed
+02/06/21 12:34:57 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Not registered yet? is displayed
+02/06/21 12:34:57 PM Wednesday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+02/06/21 12:34:57 PM Wednesday - BasePage - INFO : Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+02/06/21 12:34:58 PM Wednesday - BasePage - INFO : Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+02/06/21 12:34:59 PM Wednesday - BasePage - INFO : clicked on element with locatortype: class and with the locatorvalue :android.widget.Button
+02/06/21 12:35:39 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+02/06/21 12:35:39 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+02/06/21 12:35:39 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+02/06/21 12:35:40 PM Wednesday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+02/06/21 12:35:40 PM Wednesday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+02/06/21 12:35:40 PM Wednesday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+02/06/21 12:35:40 PM Wednesday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+02/06/21 12:35:40 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Forgot password? is displayed
+02/06/21 12:35:40 PM Wednesday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Not registered yet? is displayed
+02/06/21 12:35:41 PM Wednesday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+02/06/21 12:35:41 PM Wednesday - BasePage - INFO : Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+02/06/21 12:35:41 PM Wednesday - BasePage - INFO : Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+02/06/21 12:35:43 PM Wednesday - BasePage - INFO : clicked on element with locatortype: class and with the locatorvalue :android.widget.Button
+03/06/21 05:35:27 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+03/06/21 05:35:28 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+03/06/21 05:35:28 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+03/06/21 05:35:28 PM Thursday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+03/06/21 05:35:29 PM Thursday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+03/06/21 05:35:29 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+03/06/21 05:35:29 PM Thursday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+03/06/21 05:35:29 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Forgot password? is displayed
+03/06/21 05:35:29 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Not registered yet? is displayed
+03/06/21 05:35:29 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+03/06/21 05:35:29 PM Thursday - BasePage - INFO : Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+03/06/21 05:35:30 PM Thursday - BasePage - INFO : Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+03/06/21 05:35:31 PM Thursday - BasePage - INFO : clicked on element with locatortype: class and with the locatorvalue :android.widget.Button
+03/06/21 05:38:35 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+03/06/21 05:38:36 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+03/06/21 05:38:36 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+03/06/21 05:38:37 PM Thursday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+03/06/21 05:38:37 PM Thursday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+03/06/21 05:38:37 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+03/06/21 05:38:37 PM Thursday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+03/06/21 05:38:37 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Forgot password? is displayed
+03/06/21 05:38:37 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Not registered yet? is displayed
+03/06/21 05:38:37 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+03/06/21 05:38:37 PM Thursday - BasePage - INFO : Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+03/06/21 05:38:38 PM Thursday - BasePage - INFO : Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+03/06/21 05:38:39 PM Thursday - BasePage - INFO : clicked on element with locatortype: class and with the locatorvalue :android.widget.Button
+03/06/21 06:03:05 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+03/06/21 06:03:05 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+03/06/21 06:03:05 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+03/06/21 06:03:06 PM Thursday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+03/06/21 06:03:06 PM Thursday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+03/06/21 06:03:06 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+03/06/21 06:03:06 PM Thursday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+03/06/21 06:03:06 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Forgot password? is displayed
+03/06/21 06:03:06 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Not registered yet? is displayed
+03/06/21 06:03:06 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+03/06/21 06:03:07 PM Thursday - BasePage - INFO : Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+03/06/21 06:03:07 PM Thursday - BasePage - INFO : Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+03/06/21 06:03:08 PM Thursday - BasePage - INFO : clicked on element with locatortype: class and with the locatorvalue :android.widget.Button
+03/06/21 06:13:50 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+03/06/21 06:13:51 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+03/06/21 06:13:51 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+03/06/21 06:13:52 PM Thursday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+03/06/21 06:13:52 PM Thursday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+03/06/21 06:13:52 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+03/06/21 06:13:52 PM Thursday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+03/06/21 06:13:53 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Forgot password? is displayed
+03/06/21 06:13:53 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Not registered yet? is displayed
+03/06/21 06:13:53 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+03/06/21 06:13:53 PM Thursday - BasePage - INFO : Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+03/06/21 06:13:54 PM Thursday - BasePage - INFO : Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+03/06/21 06:13:55 PM Thursday - BasePage - INFO : clicked on element with locatortype: class and with the locatorvalue :android.widget.Button
+07/06/21 11:41:14 AM Monday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+07/06/21 11:41:14 AM Monday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+07/06/21 11:41:14 AM Monday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+07/06/21 11:41:15 AM Monday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+07/06/21 11:41:15 AM Monday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+07/06/21 11:41:15 AM Monday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+07/06/21 11:41:15 AM Monday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+07/06/21 11:41:15 AM Monday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Forgot password? is displayed
+07/06/21 11:41:15 AM Monday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Not registered yet? is displayed
+07/06/21 11:41:15 AM Monday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+07/06/21 11:41:16 AM Monday - BasePage - INFO : Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+07/06/21 11:41:16 AM Monday - BasePage - INFO : Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+07/06/21 11:41:17 AM Monday - BasePage - INFO : clicked on element with locatortype: class and with the locatorvalue :android.widget.Button
+28/06/21 01:15:59 PM Monday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+28/06/21 01:15:59 PM Monday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+28/06/21 01:15:59 PM Monday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+28/06/21 01:16:00 PM Monday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+28/06/21 01:16:00 PM Monday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+28/06/21 01:16:00 PM Monday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+28/06/21 01:16:00 PM Monday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+28/06/21 01:16:00 PM Monday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Forgot password? is displayed
+28/06/21 01:16:00 PM Monday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Not registered yet? is displayed
+28/06/21 01:16:00 PM Monday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+28/06/21 01:16:01 PM Monday - BasePage - INFO : Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+28/06/21 01:16:01 PM Monday - BasePage - INFO : Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+28/06/21 01:16:03 PM Monday - BasePage - INFO : clicked on element with locatortype: class and with the locatorvalue :android.widget.Button
+08/07/21 12:01:16 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+08/07/21 12:01:16 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+08/07/21 12:01:16 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+08/07/21 12:01:17 PM Thursday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+08/07/21 12:01:17 PM Thursday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+08/07/21 12:01:17 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+08/07/21 12:01:17 PM Thursday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+08/07/21 12:01:17 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Forgot password? is displayed
+08/07/21 12:01:17 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Not registered yet? is displayed
+08/07/21 12:01:17 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+08/07/21 12:01:17 PM Thursday - BasePage - INFO : Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+08/07/21 12:01:18 PM Thursday - BasePage - INFO : Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+08/07/21 12:01:19 PM Thursday - BasePage - INFO : clicked on element with locatortype: class and with the locatorvalue :android.widget.Button
+08/07/21 12:57:52 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+08/07/21 12:57:54 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+08/07/21 12:57:55 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+08/07/21 12:57:58 PM Thursday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+08/07/21 12:58:00 PM Thursday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+08/07/21 12:58:01 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+08/07/21 12:58:03 PM Thursday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+08/07/21 12:58:04 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Forgot password? is displayed
+08/07/21 12:58:05 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Not registered yet? is displayed
+08/07/21 12:58:07 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+08/07/21 12:58:08 PM Thursday - BasePage - INFO : Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+08/07/21 12:58:09 PM Thursday - BasePage - INFO : Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+08/07/21 12:58:13 PM Thursday - BasePage - INFO : clicked on element with locatortype: class and with the locatorvalue :android.widget.Button
+08/07/21 01:47:31 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+08/07/21 01:47:32 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+08/07/21 01:47:33 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+08/07/21 01:47:36 PM Thursday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+08/07/21 01:47:37 PM Thursday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+08/07/21 01:47:39 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+08/07/21 01:47:40 PM Thursday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+08/07/21 01:47:41 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Forgot password? is displayed
+08/07/21 01:47:43 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Not registered yet? is displayed
+08/07/21 01:47:44 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+08/07/21 01:47:46 PM Thursday - BasePage - INFO : Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+08/07/21 01:47:47 PM Thursday - BasePage - INFO : Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+08/07/21 01:47:49 PM Thursday - BasePage - INFO : clicked on element with locatortype: class and with the locatorvalue :android.widget.Button
+08/07/21 04:09:49 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+08/07/21 04:09:51 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+08/07/21 04:09:52 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+08/07/21 04:09:55 PM Thursday - BasePage - INFO : clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+08/07/21 04:09:56 PM Thursday - BasePage - INFO : Entered with locatortype: index and with the locatorvalue :3 is displayed
+08/07/21 04:09:58 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+08/07/21 04:10:00 PM Thursday - BasePage - INFO : Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+08/07/21 04:10:01 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Forgot password? is displayed
+08/07/21 04:10:02 PM Thursday - BasePage - INFO : Entered with locatortype: text and with the locatorvalue :Not registered yet? is displayed
+08/07/21 04:10:03 PM Thursday - BasePage - INFO : Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+08/07/21 04:10:05 PM Thursday - BasePage - INFO : Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+08/07/21 04:10:06 PM Thursday - BasePage - INFO : Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+08/07/21 04:10:08 PM Thursday - BasePage - INFO : clicked on element with locatortype: class and with the locatorvalue :android.widget.Button

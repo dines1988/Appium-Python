@@ -1,0 +1,13 @@
+[32mINFO    [0m BasePage:BasePage.py:90 Entered with locatortype: text and with the locatorvalue :DISCOVER is displayed
+[32mINFO    [0m BasePage:BasePage.py:90 Entered with locatortype: text and with the locatorvalue :THE WORLD is displayed
+[32mINFO    [0m BasePage:BasePage.py:90 Entered with locatortype: text and with the locatorvalue :OF LEXUS is displayed
+[32mINFO    [0m BasePage:BasePage.py:65 clicked on element with locatortype: accessibility id and with the locatorvalue :BtnSignIn_Container
+[32mINFO    [0m BasePage:BasePage.py:90 Entered with locatortype: index and with the locatorvalue :3 is displayed
+[32mINFO    [0m BasePage:BasePage.py:90 Entered with locatortype: class and with the locatorvalue :android.widget.EditText is displayed
+[32mINFO    [0m BasePage:BasePage.py:90 Entered with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2] is displayed
+[32mINFO    [0m BasePage:BasePage.py:90 Entered with locatortype: text and with the locatorvalue :Forgot password? is displayed
+[32mINFO    [0m BasePage:BasePage.py:90 Entered with locatortype: text and with the locatorvalue :Not registered yet? is displayed
+[32mINFO    [0m BasePage:BasePage.py:90 Entered with locatortype: class and with the locatorvalue :android.widget.Button is displayed
+[32mINFO    [0m BasePage:BasePage.py:77 Entered text on element with locatortype: class and with the locatorvalue :android.widget.EditText
+[32mINFO    [0m BasePage:BasePage.py:77 Entered text on element with locatortype: xpath and with the locatorvalue :(//android.widget.EditText)[2]
+[32mINFO    [0m BasePage:BasePage.py:65 clicked on element with locatortype: class and with the locatorvalue :android.widget.Button
